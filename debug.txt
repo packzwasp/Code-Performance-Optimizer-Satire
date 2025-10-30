@@ -1,0 +1,2 @@
+# Work Log
+Replace hex codes with named color variables
